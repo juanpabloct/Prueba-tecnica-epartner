@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Prueba-tecnica-epartner/static/css/main.636e37ea.css",
-    "main.js": "/Prueba-tecnica-epartner/static/js/main.997d760c.js",
+    "main.js": "/Prueba-tecnica-epartner/static/js/main.a8aa7346.js",
     "static/js/787.6bbf19d9.chunk.js": "/Prueba-tecnica-epartner/static/js/787.6bbf19d9.chunk.js",
     "index.html": "/Prueba-tecnica-epartner/index.html",
     "main.636e37ea.css.map": "/Prueba-tecnica-epartner/static/css/main.636e37ea.css.map",
-    "main.997d760c.js.map": "/Prueba-tecnica-epartner/static/js/main.997d760c.js.map",
+    "main.a8aa7346.js.map": "/Prueba-tecnica-epartner/static/js/main.a8aa7346.js.map",
     "787.6bbf19d9.chunk.js.map": "/Prueba-tecnica-epartner/static/js/787.6bbf19d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.636e37ea.css",
-    "static/js/main.997d760c.js"
+    "static/js/main.a8aa7346.js"
   ]
 }

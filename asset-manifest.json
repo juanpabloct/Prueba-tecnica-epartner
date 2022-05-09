@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e77437b8.css",
-    "main.js": "/static/js/main.57fdad6d.js",
-    "static/js/787.6bbf19d9.chunk.js": "/static/js/787.6bbf19d9.chunk.js",
-    "index.html": "/index.html",
-    "main.e77437b8.css.map": "/static/css/main.e77437b8.css.map",
-    "main.57fdad6d.js.map": "/static/js/main.57fdad6d.js.map",
-    "787.6bbf19d9.chunk.js.map": "/static/js/787.6bbf19d9.chunk.js.map"
+    "main.css": "/Prueba-tecnica-epartner/static/css/main.636e37ea.css",
+    "main.js": "/Prueba-tecnica-epartner/static/js/main.997d760c.js",
+    "static/js/787.6bbf19d9.chunk.js": "/Prueba-tecnica-epartner/static/js/787.6bbf19d9.chunk.js",
+    "index.html": "/Prueba-tecnica-epartner/index.html",
+    "main.636e37ea.css.map": "/Prueba-tecnica-epartner/static/css/main.636e37ea.css.map",
+    "main.997d760c.js.map": "/Prueba-tecnica-epartner/static/js/main.997d760c.js.map",
+    "787.6bbf19d9.chunk.js.map": "/Prueba-tecnica-epartner/static/js/787.6bbf19d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77437b8.css",
-    "static/js/main.57fdad6d.js"
+    "static/css/main.636e37ea.css",
+    "static/js/main.997d760c.js"
   ]
 }

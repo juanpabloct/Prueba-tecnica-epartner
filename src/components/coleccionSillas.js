@@ -1,5 +1,3 @@
-import { useEffect, useRef, useState } from "react";
-
 export default function ColeccionSillas({
   text = "Silla de ruedas monotorizada gris metalizado abatible M2000",
   data,
